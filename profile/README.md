@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DFS34a/.github/main/logo_itakademy.png" alt="logo it akademy" width="60%"/>
+  <img src="https://raw.githubusercontent.com/DFS34a/.github/main/profile/logo_itakademy.png" alt="logo it akademy" width="60%"/>
 </p>
 
 Organisation GitHub de la session **DFS34A** de l’**IT-Akademy**.
